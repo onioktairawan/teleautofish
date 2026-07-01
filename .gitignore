@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+
+# Secrets and local credentials
+.env
+*.session
+*.session-journal
+
+# Local runtime data
+backups/
+*.zip
+bot_admins.json
+bot_maintenance.json
+bot_mode.json
+broadcast_messages.json
+broadcast_users.json
+daily_broadcast.json
+fish_account_state.json
+fish_groups.json
+fish_rules.json
+fish_special_group.json
+fish_stats.json
+rare_gallery.json
+.bot2_restart_pending
+
+# Local tooling/cache
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/

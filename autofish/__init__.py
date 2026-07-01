@@ -1,0 +1,2 @@
+"""Autofish bot package."""
+
