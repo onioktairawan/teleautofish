@@ -1,0 +1,5 @@
+Pyrogram==2.0.106
+TgCrypto==1.2.5
+python-telegram-bot[job-queue]==22.7
+pymongo[srv]==4.17.0
+python-dotenv==1.2.2
